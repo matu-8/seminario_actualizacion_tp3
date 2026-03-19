@@ -1,7 +1,7 @@
 
-const express = require('express');
-const path    = require('path');
-const crypto  = require('crypto');
+import express from 'express';
+import crypto  from 'crypto'
+import path from 'path';
 
 
 const app  = express();
